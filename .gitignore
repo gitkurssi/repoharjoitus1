@@ -1,3 +1,1 @@
-/build
-/target
-*.log
+node_modules
