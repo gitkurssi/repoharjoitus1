@@ -1,2 +1,5 @@
 Devin tervehdys
 ja masterissa tehty muutos
+ja tehty muutos tähän
+terve tiedoston eka commit dev haarassa
+toinen muutos tehty
